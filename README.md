@@ -58,7 +58,7 @@ git bash update instructions
 7. git push origin master
 
 8. git remote rm origin -- add version and renew link in github.
-9. git config --get remote.origin.url -- check current github url
+9. git config --get remote.origin.url ----- check current github url
 
 node server
 
