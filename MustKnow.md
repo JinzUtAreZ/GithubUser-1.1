@@ -16,3 +16,4 @@ Helpful Developing
 5. rce press tab = import React, { Component } from 'react';
 6. impt press tab = import PropTypes from 'prop-types';
 7. npm i react-router-dom
+8. // eslint-disable-next-line ------ disable error warnings on where the code is written
